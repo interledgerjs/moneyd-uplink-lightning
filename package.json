@@ -1,0 +1,28 @@
+{
+  "name": "moneyd-uplink-lightning",
+  "version": "0.0.1",
+  "description": "Connect to an ILP provider using the lightning network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interledgerjs/moneyd-uplink-lightning.git"
+  },
+  "keywords": [
+    "ILP",
+    "lightning",
+    "moneyd"
+  ],
+  "author": "ILP Contributors",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/interledgerjs/moneyd-uplink-lightning/issues"
+  },
+  "homepage": "https://github.com/interledgerjs/moneyd-uplink-lightning#readme",
+  "dependencies": {
+    "ilp-plugin-lightning": "^1.0.0-beta.6",
+    "inquirer": "^6.2.0"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "live": [
+    "ilp.kava.io/btc"
+  ],
+  "test": [
+    "test.ilp.kava.io/btc"
+  ]
+}
